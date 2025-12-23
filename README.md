@@ -7,12 +7,12 @@ This project marks the beginning of my journey transitioning from avionics elect
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 **(https://pohtaetoechip.github.io/Bakiem-s-Resume/)**  
 
 ---
 
-## 📄 Project Overview
+##  Project Overview
 
 This project is a single-page HTML resume that features:
 
@@ -35,15 +35,15 @@ This project demonstrates an understanding of:
 
 ---
 
-## 📚 Features
+##  Features
 
-### ✔ Semantic HTML5  
+###  Semantic HTML5  
 The page uses correct HTML5 tags and hierarchy, showing real-world best practices.
 
-### ✔ Navigation Bar  
+###  Navigation Bar  
 Internal page navigation using `<a href="#section-id">` anchor links.
 
-### ✔ Fully Sectioned Resume  
+###  Fully Sectioned Resume  
 - About Me  
 - Education & Training  
 - Work Experience  
@@ -51,10 +51,10 @@ Internal page navigation using `<a href="#section-id">` anchor links.
 - Resources and external references  
 - Contact page link  
 
-### ✔ No Frameworks  
+###  No Frameworks  
 The project intentionally avoids CSS or JavaScript to show mastery of raw HTML.
 
 ---
 
-## 🧩 File Structure
+##  File Structure
 
